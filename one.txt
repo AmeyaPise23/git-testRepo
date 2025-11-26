@@ -1,2 +1,5 @@
 this is first file
 Add Another file to the folder and commit it
+
+I am a fix file which will be used to fix a bug.
+I am a fix file which will be used to fix a bug.
